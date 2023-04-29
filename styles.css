@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(244,245,245);
+}
+h1{
+	background-color:rgb(1,31,41);
+	color:white;
+	padding:20px;
+	text-align:center;
+}
+.first_part{
+	border:2px solid rgb(255,255,255);
+	border-radius:5px;
+	width:30%;
+	background-color:rgb(255,255,255);
+	margin-bottom:15px;
+}
+.second_part{
+	border:2px solid rgb(255,255,255);
+	background-color:rgb(255,255,255);
+	padding-top:20px;
+	border-radius:20px;
+	position:relative;
+	width:40%;
+	text-align:center;
+}
+.third_article{
+	border:2px solid rgb(255,255,255);
+	background-color:rgb(255,255,255);
+	padding-top:20px;
+	border-radius:20px;
+	position:absolute;
+	width:24%;
+	text-align:center;
+	margin-left:4px;
+	
+}
+
+div{
+	display:inline-grid;
+}
+img{
+	margin-bottom:10px;
+	width:70%;
+	display:inline-grid;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
